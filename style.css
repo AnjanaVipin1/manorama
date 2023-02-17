@@ -1,0 +1,204 @@
+.title
+{
+    background-color: rgb(22, 19, 19);
+    height: 30px;
+    color: white;
+}
+.title ul
+{
+padding-top: 5px;
+list-style-type: none;
+}
+.title li
+{
+display: inline;
+padding: 20px;
+}
+.login
+{
+    float: right;
+    margin-right: 100px;
+    margin-top: -30px;
+    color: white;
+    padding-top: 5px; 
+}
+.banner img
+{
+    margin-left: 150px;
+    padding-top:20PX;
+}
+.title1 ul
+{
+    padding-top: 5px;
+    list-style-type: none;
+    margin-left: 175px;
+}
+.title1 li
+{
+    display: inline;
+    padding: 5px;
+}
+.date
+{
+    margin-right: 150px;
+    margin-top: -35px;
+}
+.follow
+{
+    float: right;
+    margin-right: 3px;
+    margin-top: -17px;
+}
+.section
+{
+    float: left;
+    margin-left: 3px;
+    margin-top:25px;
+}
+.head
+{
+    margin-left: 300px;
+    padding-top:10PX;
+}
+.border
+{
+    border-style: solid;
+    border-top: 40px;
+}
+.home
+{
+    float: left;
+    margin-left: 3px;
+    margin-top:15px;
+}
+.title2 ul
+{
+    padding-top: 2px;
+    list-style-type: none;
+    margin-left: 10px;
+}
+.title2 li
+{
+    display: inline;
+    padding: 10px;
+}
+.banner2
+{
+    margin-left: 30px;
+    padding-top:3PX;
+}
+.news1
+{
+    width: 460px;
+}
+.news1 img
+{
+width: 460px;
+height: 275px;
+}
+.news1 h2
+{
+    color: red;
+}
+.news1 h3
+{
+    font-size: 17px;
+}
+.news2 p
+{
+    font-size: 15px;
+    margin-top: -575px;
+    padding-left: 100px;
+   
+}
+.news2
+{
+    width: 460px; 
+    margin-left: 490px;
+    margin-top: -100px;
+}
+.news2 img
+{
+    margin-top: -800px;
+    padding-left: -8px;
+    padding-bottom: 30px;
+    width: 100px;
+    height: 50px;
+}
+.news3 p
+{
+    font-size: 15px;
+    margin-top: 95px;
+    padding-left: 100px;
+}
+.news3 
+{
+    width: 460px; 
+    margin-left: 490px;
+    margin-top: -110px;
+   
+}
+.news3 img
+{
+    margin-top: 95x;
+    padding-left: -8px;
+    padding-bottom: 35px; 
+    margin-top: -800px;
+    width: 100px;
+    height: 50px;
+}
+.news4 
+{
+    width: 460px; 
+    margin-left: 490px;  
+    margin-top: -120px;
+}
+.news4 img
+{
+    margin-top: 95x;
+    padding-left: -8px;
+    padding-bottom: 35px; 
+    margin-top: -800px;
+    width: 100px;
+    height: 50px;
+}
+.news4 p
+{
+    font-size: 15px;
+    margin-top: 95px;
+    padding-left: 100px;
+}
+.news5 img
+{
+    margin-top: 95x;
+    padding-left: -8px;
+    padding-bottom: 20px; 
+    margin-top: -850px;
+    width: 100px;
+    height: 50px;
+}
+.news5 
+{
+    width: 460px; 
+    margin-left: 490px;  
+    margin-top: -120px;
+}
+.news5 p
+{
+    font-size: 15px;
+    margin-top: 95px;
+    padding-left: 100px;
+}
+.banner3
+{
+    margin-left: 1000px;
+    padding-top:3PX;
+    margin-top: -290px;
+}
+.head4
+{
+    color: red;
+    margin-left: 1000px;
+}
+
+
